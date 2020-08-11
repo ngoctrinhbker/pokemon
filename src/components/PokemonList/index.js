@@ -13,7 +13,7 @@ const styles = {
     justifyContent: "space-around",
     margin: "20px 0"
   },
-  buttonLoadMore: { margin: "50px auto" }
+  buttonLoadMore: { margin: "50px 40%", width: "100%" }
 };
 
 const PokemonList = () => {
