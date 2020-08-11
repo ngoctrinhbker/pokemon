@@ -2,7 +2,7 @@
 
 Small Page to display pokemon and search
 
-### `Yarn` or `npm íntall`
+### `Yarn` or `npm install`
 
 To install dependencies
 
